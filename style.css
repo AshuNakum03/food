@@ -1,0 +1,15 @@
+#main-head{
+    height: calc(100vh - 56px);
+    background-image: url('cdcd425e0f442bf63772289e28811bb0-375.jpg');
+    background-size: cover;
+}
+.page-section{
+    padding: 80px;
+}
+.section-heading{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.section sub-heading{
+     margin-bottom: 5px;
+}
